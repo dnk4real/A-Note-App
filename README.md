@@ -1,2 +1,4 @@
 # A-Note-App
 A-Note-App is a lightweight, open-source note-taking app inspired by Smartisan Notes. Unlike complex modular note systems like Notion, A-Note-App focuses on simplicity, smoothness, and beauty. It’s a minimal but delightful app that supports rich text editing, image embedding, simple layouts, and exporting long notes as images.  Store all your notes locally and easily sync them via WebDAV. Works seamlessly on PC and mobile, built with Godot Engine.
+
+With all that said, it's nothing right now, I'm using this as a way to learn godot engine's control node, I'll keep updating.
